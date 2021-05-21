@@ -4,7 +4,7 @@ GROUP PROJECT
 
 CONTRIBUTERS
 
-Philip Macharia
+Me(@amPhilip)
 
 Martin Reje
 
