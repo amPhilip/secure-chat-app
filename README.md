@@ -1,4 +1,17 @@
-# secure-chat-app
+# TCP PROJECT (secure-chat-app)
+
+GROUP PROJECT
+
+CONTRIBUTERS
+
+Philip Macharia
+
+Martin Reje
+
+Olive Kulali
+
+CRYPTOGRAPHY
+
 IMPLEMENTATION OF RSA OVER TCP
 
 RSA CHAT APP.
